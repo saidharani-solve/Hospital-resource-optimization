@@ -14,4 +14,3 @@ Dashboard 3
 
 ![Hospital Dashboard 3](./Hospital%20Dashboard%203%20.png)
 
-
