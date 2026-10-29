@@ -12,5 +12,5 @@ Dashboard 2
 
 Dashboard 3
 
-![Hospital Dashboard 3](./Hospital%20Dashboard%203%20.png)
+![Hospital Dashboard 3](./Hospital%20Dashboard%203.png)
 
