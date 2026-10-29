@@ -104,5 +104,16 @@ Dashboard 3 — Additional Insights
 
 ![Hospital Dashboard 3](images/Hospital-Dashboard-3.png.png)
 
+Python Dashboard Preview
+
+Hospital Claims & Financial Live Dashboard
+
+This dashboard simulates hospital claims and financial monitoring, showing claim approval rate, rejected claims, total cash flow, and claim amount trends.
+
+![Hospital Claims Live Dashboard](images/Hospital_Claims_Live_Dashboard.png)
+
+Python code:[View the Python dashboard code](python-analysis/hospital_claims_dashboard.py)
+
+Note: This is a simulated dashboard based on secondary/reference data, not a live Apollo Hospitals system.
 
 
