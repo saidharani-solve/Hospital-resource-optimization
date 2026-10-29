@@ -87,3 +87,21 @@ Findings and model performance are limited to the datasets, variables, and analy
 This project demonstrates an analytical approach to understanding hospital operational and financial indicators. It combines business analysis, data preparation, visualization, and analytical modelling to support evidence-based recommendations for resource planning.
 
 Disclaimer: This is an independent academic case study and is not an official Apollo Hospitals project or representation of its internal systems.
+
+Power BI Dashboard Preview
+
+These dashboards showcase selected operational and financial indicators from the secondary/reference data used in this academic case study.
+
+Dashboard 1 — Hospital Analytics
+
+![Hospital Dashboard](images/Hospital%20Dashboard.png)
+
+Dashboard 2 — Operational Analysis
+
+![Hospital Dashboard 2](images/Hospital%20Dashboard%202%20.png)
+
+Dashboard 3 — Additional Insights
+
+![Hospital Dashboard 3](images/Hospital%20Dashboard%203%20.png)
+
+
