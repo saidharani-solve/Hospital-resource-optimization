@@ -116,4 +116,15 @@ Python code:[View the Python dashboard code](python-analysis/hospital_claims_das
 
 Note: This is a simulated dashboard based on secondary/reference data, not a live Apollo Hospitals system.
 
+Python Live Dashboard
+
+Dashboard Output 1
+
+![Python Live Dashboard 1](images/Python_Live_Dashboard_1.png)
+
+Dashboard Output 2
+
+![Python Live Dashboard 2](images/Python_Live_Dashboard_2.png)
+
+Note: Dashboard results are from a project simulation using secondary/reference data.
 
