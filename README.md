@@ -79,8 +79,10 @@ Findings and model performance are limited to the datasets, variables, and analy
 
 10. Project Files
 
-- Power BI Dashboard: To be added.
-- Python Analysis: To be added.
+- Power BI Dashboards: View the dashboard screenshots in the images/folder.
+- Python Analysis: Explore the analysis and dashboard notebooks in the python-analysis/ folder.
+- Business Requirements: View the BRD and use cases in the business-requirements/ folder.
+- Findings and Recommendations: Read findings-and-recommendations.md.
 
 11. Conclusion
 
