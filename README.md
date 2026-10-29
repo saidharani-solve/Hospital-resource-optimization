@@ -102,7 +102,7 @@ Dashboard 2 — Operational Analysis
 
 Dashboard 3 — Additional Insights
 
-![Hospital Dashboard 3](images/Hospital-Dashboard-3.png)
+![Hospital Dashboard 3](images/Hospital-Dashboard-3.png.png)
 
 
 
