@@ -48,7 +48,10 @@ Machine Learning: Predictive modelling experiments and evaluation using the meth
 
 6. Key Findings
 
-Findings will be added after verifying the actual analytical results.
+- Bed Occupancy Prediction: A Random Forest model was tested and achieved approximately 66% accuracy on the secondary/reference dataset. This result is exploratory and requires further validation.
+- Hospital Analytics: Python analysis explored operational indicators such as bed occupancy, patient waiting time, and treatment costs.
+- Financial Dashboard: The simulated Python dashboard displays insurance claim approval and rejection information, cash flow, and claim amount trends.
+- Power BI Dashboards: The dashboards present selected hospital operational and financial indicators for visual monitoring.
 
 Each finding will include the observation, supporting chart or metric, business relevance, and recommendation.
 
