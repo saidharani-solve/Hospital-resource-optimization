@@ -112,8 +112,6 @@ This dashboard simulates hospital claims and financial monitoring, showing claim
 
 ![Hospital Claims Live Dashboard](images/Hospital_Claims_Live_Dashboard.png)
 
-Python code:[View the Python dashboard code](python-analysis/hospital_claims_dashboard.py)
-
 Note: This is a simulated dashboard based on secondary/reference data, not a live Apollo Hospitals system.
 
 Python Live Dashboard
