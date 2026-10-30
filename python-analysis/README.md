@@ -1,6 +1,6 @@
 Python Analysis
 
-This folder contains the Python analysis and dashboard development for my MBA academic project, Hospital Resource Allocation and Financial Optimization — Apollo Hospitals.
+This folder contains the Python analysis and dashboard development for my MBA academic project, Hospital Resource Allocation and Financial Optimization.
 
 1. Hospital Data Analysis and Machine Learning
 
