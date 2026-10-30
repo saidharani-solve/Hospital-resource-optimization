@@ -1,5 +1,4 @@
-Hospital Resource Allocation and Financial Optimization
-Apollo Hospitals | Business Analyst Portfolio Project
+Hospital Resource Allocation and Financial Optimization | Business Analyst Portfolio Project
 
 Project Type: MBA Academic Project  
 Role: Business Analysis and Data Analytics  
