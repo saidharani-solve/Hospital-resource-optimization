@@ -98,11 +98,11 @@ These dashboards showcase selected operational and financial indicators from the
 
 Dashboard 1 — Patient Demographics
 
-![Patient Demographics](images/Patient-Demographics.png)
+![Patient Demographics](images/Dashboard%201%20%E2%80%94%20Patient%20Demographics.png)
 
 Dashboard 2 — Bed Occupancy Analysis
 
-![Bed Occupancy Analysis](images/Bed-Occupancy-Analysis.png)
+![Bed Occupancy Analysis](images/Dashboard%202%20%E2%80%94%20Bed%20Occupancy%20Analysis.png)
 
 Dashboard 3 — Additional Insights
 
