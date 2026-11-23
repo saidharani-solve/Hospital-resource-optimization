@@ -96,13 +96,13 @@ Power BI Dashboard Preview
 
 These dashboards showcase selected operational and financial indicators from the secondary/reference data used in this academic case study.
 
-Dashboard 1 — Hospital Analytics
+Dashboard 1 — Patient Demographics
 
-![Hospital Dashboard](images/Hospital%20Dashboard.png)
+![Patient Demographics](images/Patient-Demographics.png)
 
-Dashboard 2 — Operational Analysis
+Dashboard 2 — Bed Occupancy Analysis
 
-![Hospital Dashboard 2](images/Hospital%20Dashboard%202%20.png)
+![Bed Occupancy Analysis](images/Bed-Occupancy-Analysis.png)
 
 Dashboard 3 — Additional Insights
 
